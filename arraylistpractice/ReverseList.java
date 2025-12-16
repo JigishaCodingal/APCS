@@ -4,7 +4,6 @@ import java.util.*;
 
 // Define the main class 'ReverseList' where the program logic is implemented
 class ReverseList {
-
     // Main method - Entry point of the program
     public static void main(String[] args)
     {
